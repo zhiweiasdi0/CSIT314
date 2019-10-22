@@ -3,5 +3,6 @@
 		Enter 2nd number: <input type ="text" name=num2"><br>
 		<input type="submit">
 		//안녕하세요
+		//heello
 		
 	</form>
